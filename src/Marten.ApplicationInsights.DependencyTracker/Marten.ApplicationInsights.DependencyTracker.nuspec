@@ -8,7 +8,6 @@
         <owners>Stuart Clark</owners>
         <licenseUrl>https://github.com/sjclark76/Marten.ApplicationInsights.DependencyTracker/blob/master/LICENSE</licenseUrl>
         <projectUrl>https://github.com/sjclark76/Marten.ApplicationInsights.DependencyTracker</projectUrl>
-        <iconUrl>https://www.website.com/logo.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>A small and simple package to add dependeny tracking for Azure Application Insights when using Marten with PostgreSql</description>
         <releaseNotes>1.0.1 with updated documentation</releaseNotes>
