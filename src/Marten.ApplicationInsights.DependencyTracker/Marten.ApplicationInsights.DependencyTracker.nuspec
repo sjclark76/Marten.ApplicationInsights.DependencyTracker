@@ -2,18 +2,18 @@
 <package>
     <metadata>
         <id>Marten.ApplicationInsights.DependencyTracker</id>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
         <title>Marten ApplicationInsights DependencyTracker</title>
         <authors>Stuart Clark</authors>
         <owners>Stuart Clark</owners>
-        <licenseUrl>https://www.website.com/terms</licenseUrl>
-        <projectUrl>https://www.website.com/project</projectUrl>
+        <licenseUrl>https://github.com/sjclark76/Marten.ApplicationInsights.DependencyTracker/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/sjclark76/Marten.ApplicationInsights.DependencyTracker</projectUrl>
         <iconUrl>https://www.website.com/logo.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>A description of your package</description>
-        <releaseNotes>Initial 1.0.0 release</releaseNotes>
+        <description>A small and simple package to add dependeny tracking for Azure Application Insights when using Marten with PostgreSql</description>
+        <releaseNotes>1.0.1 with updated documentation</releaseNotes>
         <copyright>Copyright 2018 CompanyLtd</copyright>
-        <tags>sample nuget</tags>
+        <tags>Marten postgres Analytics Azure ApplicationInsights Telemetry Monitoring</tags>
         <dependencies>           
             <dependency id="Marten" version="3.12.1" />
             <dependency id="Microsoft.ApplicationInsights" version="2.14.0" />
